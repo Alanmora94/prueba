@@ -1,3 +1,7 @@
+cli.angular.io
+
 npm install -g angular-cli
 
 ng new (nombre de proyecto)
+ng server
+localhost:4200/path
